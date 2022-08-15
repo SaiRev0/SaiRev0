@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiRev0
 - 👀 I’m interested in web development and app deveplopment
-- 🌱 I’m currently learning mongo DB
+- 🌱 I’m currently learning about the concepts of DSA
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me contact me through instagram @saiyam_iitbhu
 
