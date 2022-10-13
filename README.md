@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SaiRev0
-- 👀 I’m interested in web development and app deveplopment
-- 🌱 I’m currently learning about the concepts of DSA
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me contact me through instagram @saiyam_iitbhu
+![COME](https://user-images.githubusercontent.com/96655163/195539546-4d2778fc-c88c-41a7-9dfe-e2a084847296.png)
+
 
 ### Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SaiRev0" />
 
