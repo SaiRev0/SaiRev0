@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://codepen.io/sairev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sairev0" height="30" width="40" /></a>
 <a href="https://dev.to/sairev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sairev" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sairev/](https://www.linkedin.com/in/sairev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sairev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sairev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sairev/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18765060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18765060" height="30" width="40" /></a>
 <a href="https://instagram.com/saiyam_iitbhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiyam_iitbhu" height="30" width="40" /></a>
 </p>
