@@ -32,4 +32,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SaiRev0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="sairev0" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=SaiRev0&theme=dracula&date_format=j%20M%5B%20Y%5Dt" alt="sairev0" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=SaiRev0&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="sairev0" /></p>
