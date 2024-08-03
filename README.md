@@ -3,16 +3,16 @@
 ---
 
 <h1 align="center">Hi 👋, I'm SaiRev</h1>
-<h3 align="center">An open source contributor from India</h3>
+<h3 align="center">An open source contributor and Founder of <a href="https://www.aaspaas.tech">AasPaas</a> from India</h3>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=SaiRev0&icon=3&color=1" alt="sairev0" /></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaiRev0&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="sairev0" /></a> </p>
 
-- 🔭 I’m currently working on [Volte/Plone](https://github.com/plone)
+- 🔭 I’m currently working on [AasPaas](https://www.aaspaas.tech)
 
-- 🌱 I’m currently learning **Figma, React, Firebase**
+- 🌱 I’m currently learning **DevOps, AWS**
 
-- 💬 Ask me about **NodeJs, Express**
+- 💬 Ask me about **NextJs, React, Typescript**
 
 - 📫 How to reach me **saiyamjain1234567@gmail.com**
 
