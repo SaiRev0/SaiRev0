@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **NextJs, React, Typescript**
 
-- 📫 How to reach me **saiyamjain1234567@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sairev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sairev0" height="30" width="40" /></a>
